@@ -1,0 +1,16 @@
+/* Hero Section */
+.dark-bg{
+    background-size: cover;
+    background-position: center center;
+    background-attachment: fixed;
+} 
+
+#hero .jumbotron{
+    height: 100vh;
+}
+
+img {
+    display: block;
+    max-width: 100%;
+    height: auto;
+  }  
